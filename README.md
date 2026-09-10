@@ -1,2 +1,2 @@
 # 428
-Official Linux 428 Distro Repository
+Linux 428 Marigold -- The Lively, The Verdant, The Original
